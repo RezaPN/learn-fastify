@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+.lock-files/
+
+# Fastify
+.fastifyrc
+fastify-plugin-store/
+
+# Testing
+coverage/
+test/
+**/__tests__/**
+
+# IDE & Editors
+.vscode/
+.idea/
+.DS_Store
+
+# Others
+tmp/
+logs/
+*.log
+*.pid
